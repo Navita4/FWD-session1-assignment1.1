@@ -1,0 +1,5 @@
+Install nodejs 
+1 install nodejs from https://nodejs.org/en
+2 open cmd and type 
+node --version
+v8.2.1
